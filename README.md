@@ -1,8 +1,8 @@
 # PHP - My Portfolio
 
-This is a link to my portfolio website based on PHP
+This is a link to my portfolio website based on PHP and contains details about my Education and work experiences.
 
-## Login Page :
+## Login Page:
 
 ## Screenshot :
 
